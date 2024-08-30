@@ -1,0 +1,25 @@
+.container-fluid
+{
+    border:2px solid black;
+
+}
+.row
+{
+    border:2px solid red;
+
+}
+.col-10,.col-2
+{
+    border:2px solid yellow;
+}
+.header{
+    background-color: antiquewhite;
+}
+.navigation ul
+{
+    list-style: none;
+
+}
+.navigation ul li{
+    display: inline;
+}
